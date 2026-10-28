@@ -1,0 +1,8 @@
+[1mrecruitment_tracker.py[m[36m:[m4[36m:[m80[36m:[m [1m[31mE501[m line too long (124 > 79 characters)
+[1mrecruitment_tracker.py[m[36m:[m8[36m:[m80[36m:[m [1m[31mE501[m line too long (140 > 79 characters)
+[1mrecruitment_tracker.py[m[36m:[m13[36m:[m80[36m:[m [1m[31mE501[m line too long (106 > 79 characters)
+[1mrecruitment_tracker.py[m[36m:[m15[36m:[m5[36m:[m [1m[31mF841[m local variable 'total_seen' is assigned to but never used
+[1mrecruitment_tracker.py[m[36m:[m15[36m:[m27[36m:[m [1m[31mW291[m trailing whitespace
+[1mrecruitment_tracker.py[m[36m:[m26[36m:[m80[36m:[m [1m[31mE501[m line too long (93 > 79 characters)
+[1mrecruitment_tracker.py[m[36m:[m31[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1mrecruitment_tracker.py[m[36m:[m39[36m:[m80[36m:[m [1m[31mE501[m line too long (100 > 79 characters)
